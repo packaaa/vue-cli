@@ -227,11 +227,11 @@ new Vue({
 
 
 ```
-vue init jamielhf/webpack#template1 name
+vue init template1 name
 
 ```
 #### github地址
-[https://github.com/jamielhf/webpack/tree/template1](https://github.com/jamielhf/webpack/tree/template1)
+[https://github.com/packaaa/vue-cli](https://github.com/packaaa/vue-cli)
 
 #### 参考：  
 [vue-cli webpack的配置详解](http://blog.csdn.net/hongchh/article/details/55113751 )  
